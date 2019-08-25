@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "model": "mot/wCat/tororo.moc",
+    "textures": ["mot/wCat/images/catW.png"],
+    "pose": "mot/wCat/tororo.pose.json",
+    "name": "tororo",
+    "motions": {
+        "idle": [{
+            "file": "mot/wCat/mot/00_idle.mtn"
+        }],
+        "": [{
+            "file": "mot/wCat/mot/01.mtn"
+        }, {
+            "file": "mot/wCat/mot/02.mtn"
+        }, {
+            "file": "mot/wCat/mot/03.mtn"
+        }, {
+            "file": "mot/wCat/mot/04.mtn"
+        }, {
+            "file": "mot/wCat/mot/05.mtn"
+        }, {
+            "file": "mot/wCat/mot/06.mtn"
+        }, {
+            "file": "mot/wCat/mot/07.mtn"
+        }, {
+            "file": "mot/wCat/mot/08.mtn"
+        }]
+    }
+}

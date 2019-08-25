@@ -1,0 +1,29 @@
+{
+    "version": "Sample 1.0.0",
+    "model": "mot/bCat/hijiki.moc",
+    "textures": ["mot/bCat/images/catB.png"],
+    "name": "hijiki",
+    "pose": "mot/bCat/bcat.pose.json",
+    "motions": {
+        "idle": [{
+            "file": "mot/bCat/00_idle.mtn"
+        }],
+        "": [{
+            "file": "mot/bCat/mot/01.mtn"
+        }, {
+            "file": "mot/bCat/mot/02.mtn"
+        }, {
+            "file": "mot/bCat/mot/03.mtn"
+        }, {
+            "file": "mot/bCat/mot/04.mtn"
+        }, {
+            "file": "mot/bCat/mot/05.mtn"
+        }, {
+            "file": "mot/bCat/mot/06.mtn"
+        }, {
+            "file": "mot/bCat/mot/07.mtn"
+        }, {
+            "file": "mot/bCat/mot/08.mtn"
+        }]
+    }
+}
