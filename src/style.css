@@ -1,0 +1,54 @@
+._chrome_cat_box{
+    height:310px;
+    padding-top:30px;
+    width:280px;
+    position:fixed;
+    bottom:10px;
+    right:0;
+    box-sizing: border-box;
+}
+._chrome_cat_box_main{
+    height:280px;
+    width:280px;
+    position:fixed;
+    bottom:10px;
+    right:0;
+}
+._chrome_cat_box_main_btns{
+    position: absolute;
+    left:0;
+    top:0;
+    
+}
+._chrome_cat_box_main_btn{
+    margin-left:5px;
+    cursor: pointer;
+
+    -moz-appearance: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-appearance: none;
+    -webkit-user-select: none;
+    appearance: none;
+    background-position: -1px -1px;
+    background-repeat: repeat-x;
+    background-size: 110% 110%;
+    border: 1px solid rgba(27,31,35,.2);
+    border-radius: .25em;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 6px 12px;
+    position: relative;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 3px 10px;
+    background-color: #eff3f6;
+    background-image: linear-gradient(-180deg,#fafbfc,#eff3f6 90%);
+    color: #24292e;
+}
